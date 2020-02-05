@@ -10,8 +10,8 @@ This is an example to scan Aroma Shooter via Wifi by browsing its mDNS service. 
 
 - Mono.Zeroconf v 0.9.0 was used. 
 
-  [More about Zeroconf]: https://www.mono-project.com/archived/monozeroconf/
+  [More about Zeroconf]: https://www.mono-project.com/archived/monozeroconf/	"More about Zeroconf"
 
 - This sample was hugely based on MZClient in 
 
-  [Repository]: https://github.com/mono/Mono.Zeroconf
+  [Repository]: https://github.com/mono/Mono.Zeroconf	"Zeroconf repository"
